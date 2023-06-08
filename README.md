@@ -7,3 +7,17 @@ Implemented using:
  * LLaMA,
  * ChromaDB.
 
+### Installation
+
+```sh
+git clone https://github.com/mchalapuk/aurora.ai.git
+```
+
+### Running
+
+With python3 installed and available in PATH variable.
+
+```sh
+run.sh
+```
+
