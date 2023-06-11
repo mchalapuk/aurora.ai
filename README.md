@@ -18,6 +18,6 @@ git clone https://github.com/mchalapuk/aurora.ai.git
 With python3 installed and available in PATH variable.
 
 ```sh
-run.sh
+./run.sh
 ```
 
