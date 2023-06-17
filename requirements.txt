@@ -1,4 +1,6 @@
 langchain
+qdrant-client
+llama-cpp-python
 websockets
 pydantic
 uvicorn
