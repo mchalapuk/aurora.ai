@@ -5,3 +5,4 @@ websockets
 pydantic
 uvicorn
 fastapi
+jinja2
